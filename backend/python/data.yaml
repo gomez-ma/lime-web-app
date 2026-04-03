@@ -1,0 +1,9 @@
+path: C:/Users/komez/OneDrive/Desktop/lime-system/backend/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: unripe
+  1: ripe
+  2: overripe
