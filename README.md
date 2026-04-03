@@ -1,6 +1,8 @@
 # How to run
 `cd frontend`
 
+`npm install`
+
 `npm run dev`
 
 ---
@@ -12,5 +14,7 @@
 ---
 
 `cd backend`
+
+`npm install`
 
 `node app.js`
